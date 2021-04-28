@@ -7,5 +7,21 @@ The game works on an 8x8 LED matrix that is connected to the GPIO of the Raspber
 
 # Libraries 
 
-RPi.GPIO is the standard go-to library to control the GPIO on a Raspberry Pi because of it's ability to handle inputs in real time. To control the 8x8 LED matrix 
+RPi.GPIO is the standard go-to library to control the GPIO on a Raspberry Pi because of it's ability to handle inputs in real time. It is a powerful library that gives easy control over the GPIO.
+
+# Gallery
+
+### The complete setup
+![IMG_20190419_003537](https://user-images.githubusercontent.com/42097564/116364101-76799a00-a821-11eb-88c7-ff6470386c66.jpg)
+
+
+![IMG_20190419_040434](https://user-images.githubusercontent.com/42097564/116364265-a759cf00-a821-11eb-80ba-0ca032faf98d.jpg)
+
+### GPIO Pin Diagram
+![Screenshot_20190419-001928](https://user-images.githubusercontent.com/42097564/116364309-b3459100-a821-11eb-8a7a-c163d18dd0c7.jpg)
+### Videos
+https://user-images.githubusercontent.com/42097564/116364343-bb9dcc00-a821-11eb-94f1-d5213069ce71.mp4
+
+
+https://user-images.githubusercontent.com/42097564/116364464-da9c5e00-a821-11eb-8b8f-c9f1cb3f8eec.mp4
 
