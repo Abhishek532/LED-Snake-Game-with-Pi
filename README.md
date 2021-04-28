@@ -12,7 +12,7 @@ RPi.GPIO is the standard go-to library to control the GPIO on a Raspberry Pi bec
 # Gallery
 
 ### The complete setup
-![IMG_20190419_003537](https://user-images.githubusercontent.com/42097564/116364101-76799a00-a821-11eb-88c7-ff6470386c66.jpg)
+![IMG_20190419_003537](https://user-images.githubusercontent.com/42097564/116365500-ed636280-a822-11eb-8d9c-78102c854aab.jpg)
 
 
 ![IMG_20190419_040434](https://user-images.githubusercontent.com/42097564/116364265-a759cf00-a821-11eb-80ba-0ca032faf98d.jpg)
