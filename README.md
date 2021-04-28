@@ -19,9 +19,11 @@ RPi.GPIO is the standard go-to library to control the GPIO on a Raspberry Pi bec
 
 ### GPIO Pin Diagram
 ![Screenshot_20190419-001928](https://user-images.githubusercontent.com/42097564/116364309-b3459100-a821-11eb-8a7a-c163d18dd0c7.jpg)
+
 ### Videos
+#### 7 Segment functioning
 https://user-images.githubusercontent.com/42097564/116364343-bb9dcc00-a821-11eb-94f1-d5213069ce71.mp4
 
-
+#### The snake in action
 https://user-images.githubusercontent.com/42097564/116364464-da9c5e00-a821-11eb-8b8f-c9f1cb3f8eec.mp4
 
